@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 希望能在春天多发些呆
 <br>
-<img src="https://raw.githubusercontent.com/yancy0109/image/main/img/17631681788546_.pic.jpg"  style="width=300px; height:300px"/>
+<img src="https://raw.githubusercontent.com/yancy0109/image/main/img/17631681788546_.pic.jpg"  style="width=160px; height:160px"/>
