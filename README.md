@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 希望能在春天多发些呆
-![](https://raw.githubusercontent.com/yancy0109/image/main/img/17631681788546_.pic.jpg)
+<img src="https://raw.githubusercontent.com/yancy0109/image/main/img/17631681788546_.pic.jpg" style="zoom: 15%;" />
